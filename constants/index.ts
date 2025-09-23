@@ -11,5 +11,4 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     image: "https://example.com/image1.jpg",
     discount: ""
   },
-  // ... add the rest of the provided data here
 ];
