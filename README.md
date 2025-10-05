@@ -20,3 +20,4 @@ Scaffold a maintainable project structure that supports a listing page, reusable
    cd alx-listing-app
 
 "# alx-listing-app-00." 
+"# alx-listing-app-detail" 
